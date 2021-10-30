@@ -1,0 +1,2 @@
+# aego
+AethOS Go modules
